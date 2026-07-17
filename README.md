@@ -180,27 +180,6 @@ You win!
 
 \---
 
-
-
-\## 👩‍💻 Author
-
-
-
-\*\*Shreya Sarkate\*\*
-
-
-
 GitHub: https://github.com/ShreyaSarkate
 
-
-
 \---
-
-
-
-\## ⭐ Support
-
-
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
